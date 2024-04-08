@@ -1,4 +1,3 @@
 # My-CV
 
-rfgdfgdfgdf
-hfghf
+Трач Павел Андреевичь
