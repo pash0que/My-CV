@@ -1,5 +1,5 @@
-##Contact Information
-###Pavel Trach
+## Contact Information
+### Pavel Trach
 Phone: +380735505898
 Email: pavel0606t@gmail.com
 LinkedIn: LinkedIn
