@@ -7,8 +7,8 @@
 
 Phone: +380735505898\
 Email: pavel0606t@gmail.com\
-LinkedIn: LinkedIn\
-GitHub: GitHub
+LinkedIn: [LinkedIn](http://www.linkedin.com/in/poul-trach-25a395245)\
+GitHub: [GitHub](https://github.com/pash0que)
 
 ## Professional Experience
 
