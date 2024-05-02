@@ -5,9 +5,9 @@
 
 
 
-Phone: +380735505898
-Email: pavel0606t@gmail.com
-LinkedIn: LinkedIn
+Phone: +380735505898\
+Email: pavel0606t@gmail.com\
+LinkedIn: LinkedIn\
 GitHub: GitHub
 
 ## Professional Experience
