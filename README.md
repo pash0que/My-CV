@@ -14,7 +14,7 @@ GitHub: [GitHub](https://github.com/pash0que)
 
 **Manual QA**\
 **Pro-test.studio**\
-Декабрь 2020 - Март 2024
+Декабрь 2020 - Август 2024
 
 
 ---------------------------
